@@ -11,4 +11,5 @@ print("La división de", num1, "y", num2, "es", round(num1/num2, 2))
 print("La división de %d y %d es %.2f" % (num1, num2, num1/num2))
 print(f"La división de {num1} y {num2} es {num1/num2:.2f}")
 
-
+print("Fin del programa", end="")
+print("Hasta la próxima")
